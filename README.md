@@ -20,15 +20,17 @@ Read about Behave: https://behave.readthedocs.io/en/latest/gherkin.html
 
 # 2. Update a test case for support search using BDD ```done```
 User can search for Cancelling an order on Amazon (test case from Ex 2 of HW2)
-    - features/tests/cancel_order_amazon.feature
+``` - features/tests/cancel_order_amazon.feature```
 
 # 3. Create a test case using BDD that opens amazon.com, clicks on the cart icon and verifies that Your Shopping Cart is empty. ```done```
     - features/amazon_shopping_cart.feature
 
 # 4* [Not required] Creative! ```done``` 
 Create your own test case to add any product you want into the cart, and make sure it’s there (check for the number of items in the cart OR open the cart and verify it’s there, up to you!)
+```
     - features/tests/search_for_covid19.feature
     - Feature: Test Scenarios for user googles COVID 19 and verifies COVID 19 alert on the search result page
+```
 
 # 5* Codewars, solve this kata: https://www.codewars.com/kata/57eadb7ecd143f4c9c0000a3 ```done```
     - https://www.codewars.com/users/hydralisk1/completed_solutions 
